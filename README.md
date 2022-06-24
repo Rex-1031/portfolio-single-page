@@ -16,3 +16,7 @@ Single page portfolio website
 **Styling**
 Make a copy of this code and create a new page with new styling.
 ex. Dark Mode, Single Color, etc. 
+
+
+
+[Site](https://www.manypixels.co) to find artwork 
